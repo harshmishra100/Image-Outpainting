@@ -6,7 +6,6 @@
 
 A GAN-based solution for extending incomplete crop images using **residual skip connections** and **dilated convolutions**, designed to enhance agricultural analysis capabilities.
 
-![Example Output](docs/output_example.png) <!-- Add your visualizations here -->
 
 ## 📌 Overview
 Addresses the challenge of incomplete crop images in agricultural datasets by:
